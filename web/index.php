@@ -9,6 +9,11 @@
     <script src='main.js'></script>
 </head>
 <body>
+    <?php include_once 'includes/header.php'; ?>
+    <?php include_once 'includes/navigation.php'; ?>
+    <?php include_once 'includes/content.php'; ?>
+    <?php include_once 'includes/footer.php'; ?>
+    <?php include_once 'includes/admin.php';?>
     
 </body>
 </html>
